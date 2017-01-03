@@ -1703,7 +1703,7 @@
 
 		.image img {
 			display: block;
-			width: 100%;
+			width: 50%;
 		}
 
 		.image.avatar48 {
@@ -1719,7 +1719,7 @@
 
 		.image.fit {
 			display: block;
-			width: 100%;
+			width: 50%;
 		}
 
 		.image.featured {
