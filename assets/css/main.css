@@ -2186,19 +2186,22 @@
 
 			#main > section.one {
 				background-color: #81918E;
-				background-image: url("../../images/banner.jpg");
+				background-image: url("../../images/banner2.jpg");
 			}
 
 			#main > section.two {
 				background-color: #f5fafa;
+				background-image: url("../../images/banner5.jpg");
 			}
 
 			#main > section.three {
 				background-color: #ecf1f1;
+				background-image: url("../../images/banner.jpg");
 			}
 
 			#main > section.four {
 				background-color: #e8edec;
+				background-image: url("../../images/banner2.jpg");
 			}
 
 /* Wide */
@@ -2558,6 +2561,11 @@
 
 				#footer .copyright li:first-child {
 					margin-top: 0;
+				}
+
+				.thumbnail iframe {
+				  width: 100px;
+				  height: 100px;
 				}
 
 	}
